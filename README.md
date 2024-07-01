@@ -5,3 +5,4 @@ The merged data was cleaned to remove the duplicate entry of mouse "g989", then 
 Various visualizations such as bar and pie charts, box plots, scatter and line plots were used to examine the data and linear regression was used to calculate the correlation and regression of the data.
 Various statistics and calculations are included the in the visualizations in order to share beneficial information included within this dataset.
 Additional care was taken to utilize a variety of colors, font style, font weight, font size, and font type to create unique visualizations from the data.
+Ideas for code were utilized from teacher instruction, the learning Xpert, and web searches based on specific details needed for a particular line of code.
